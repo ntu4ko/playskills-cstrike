@@ -1,0 +1,26 @@
+Updated for the 4HM Gun Game Mod by ivix <http://www.bahamutzero.com>:
+(most) weapons, buyzones, bomb sites, and hostages have been removed.
+
+Spawn points: 40
+
+===============================
+Original fy_stoneworld_obe.txt:
+
+Stoneworld - Classic cs fy remake mayhem \o/
+
+Terrorists: Kill Ct's.
+
+Counter-Terrorists:  Kill T's. 
+
+Supports 40 players.
+
+Did away with guns on the floor type fy map,
+in favour of everyone starting in a buyzone.
+
+Mail suggestions for other maps
+to remake/bugs to dub2k@msn.com
+
+I've searched for the original map makers name
+but couldnt find any easter eggs in the map.
+
+If that someone is you, thanks for the map :D

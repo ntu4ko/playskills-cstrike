@@ -1,0 +1,2 @@
+Updated for the 4HM Gun Game Mod by ivix <http://www.bahamutzero.com>:
+(most) weapons, buyzones, bomb sites, and hostages have been removed.

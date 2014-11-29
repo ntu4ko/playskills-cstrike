@@ -1,0 +1,29 @@
+Updated for the 4HM Gun Game Mod by ivix <http://www.bahamutzero.com>:
+(most) weapons, buyzones, bomb sites, and hostages have been removed.
+
+Spawn points: 36
+
+===========================
+Original dm_hangumhigh.txt:
+
+DM_Hangumhigh
+
+Halo's Capture the flag map is now a CSS
+deathmatch map!
+
+There are some changes to the size of the 
+map, this is due to the difference in POV 
+and jumping distances in CSS.
+
+And what are those big orange things?
+Go have a look!
+
+--------------------
+
+key to victory:
+Avoid the open areas by using the big blocks!
+
+--------------------
+
+Made By Adiemus
+http://www.killedonreload.com/

@@ -1,0 +1,10 @@
+Updated for the 4HM Gun Game Mod by ivix <http://www.bahamutzero.com>:
+(most) weapons, buyzones, bomb sites, and hostages have been removed.
+
+Bloodarena 3
+
+Version: DM
+
+Obs.: this is a free fy_bloodarena.bsp (by johnny5) remake. Get fy_bloodarena.bsp or j5_bloodarena.bsp maps.
+
+Spawn points: 28
