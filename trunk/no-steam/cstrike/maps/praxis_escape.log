@@ -1,0 +1,150 @@
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\skylinegtrally18\counter-strike source\cstrike\materials
+Loading C:\Users\Eric\Desktop\praxis_texture_expanded.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Eric\Desktop\praxis_texture_expanded.prt...done (0)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/sky_day01_01*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/sky_day01_01rt"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (208409 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 435 texinfos to 299
+Reduced 18 texdatas to 16 (422 bytes to 345)
+Writing C:\Users\Eric\Desktop\praxis_texture_expanded.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\eric\desktop\praxis_texture_expanded.bsp
+reading c:\users\eric\desktop\praxis_texture_expanded.prt
+ 778 portalclusters
+2218 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1266 visible clusters (0.00%)
+Total clusters visible: 165740
+Average clusters visible: 213
+Building PAS...
+Average clusters audible: 633
+visdatasize:140255  compressed from 161824
+writing c:\users\eric\desktop\praxis_texture_expanded.bsp
+31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\users\eric\desktop\praxis_texture_expanded.bsp
+2330 faces
+168101 square feet [24206664.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+2330 patches before subdivision
+20196 patches after subdivision
+36 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2038802, max 579
+transfer lists:  15.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(347766, 112744, 21949)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196004, 20901, 493)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(114616, 3902, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(66829, 740, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(39359, 145, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(23218, 31, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(13754, 9, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8167, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4862, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2901, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1735, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1040, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(625, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(376, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(227, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(138, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(84, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(51, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(31, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0107 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                581/8192         6972/98304    ( 7.1%) 
+brushsides            4037/65536       32296/524288   ( 6.2%) 
+planes                2322/65536       46440/1310720  ( 3.5%) 
+vertexes              4999/65536       59988/786432   ( 7.6%) 
+nodes                 1721/65536       55072/2097152  ( 2.6%) 
+texinfos               299/12288       21528/884736   ( 2.4%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2330/65536      130480/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1370/65536       76720/3670016  ( 2.1%) 
+leaves                1750/65536       56000/2097152  ( 2.7%) 
+leaffaces             2806/65536        5612/131072   ( 4.3%) 
+leafbrushes           1229/65536        2458/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16507/512000      66028/2048000  ( 3.2%) 
+edges                 9842/256000      39368/1024000  ( 3.8%) 
+LDR worldlights         36/8192         3168/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            225/32768        2250/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3582/65536        7164/131072   ( 5.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      454020/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      140255/16777216 ( 0.8%) 
+entdata               [variable]       17839/393216   ( 4.5%) 
+LDR leaf ambient      1750/65536       42000/1572864  ( 2.7%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       20371/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      208409/4194304  ( 5.0%) 
+==== Total Win32 BSP file data space used: 1496312 bytes ====
+
+Total triangle count: 6399
+Writing c:\users\eric\desktop\praxis_texture_expanded.bsp
+21 seconds elapsed
