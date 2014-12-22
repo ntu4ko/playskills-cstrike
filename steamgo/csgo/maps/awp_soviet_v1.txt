@@ -1,6 +1,0 @@
-awp_soviet_v1 by Skals; exclusive map for CS:GO.
-
-Weapons: AWP, Deagle, Knife.
-No buy zones.
-
-For a more fair experience, it is advised to play on a server with team switch.
